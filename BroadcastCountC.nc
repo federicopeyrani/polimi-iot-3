@@ -23,6 +23,7 @@ implementation
   uint16_t counter = 0;
   uint8_t led_status = 0;
 
+  bool lock = FALSE;
   message_t packet;
 
   event void Boot.booted()
@@ -62,23 +63,32 @@ implementation
 
   event void Timer.fired()
   {
-    // build message
-    broadcast_msg_t* msg = (broadcast_msg_t*) call Packet.getPayload(&packet, sizeof(broadcast_msg_t));
-    if (msg == NULL) {
+    if (lock) {
       return;
+    } else {
+      // build message
+      broadcast_msg_t* msg = (broadcast_msg_t*) call Packet.getPayload(&packet, sizeof(broadcast_msg_t));
+      if (msg == NULL) {
+        return;
+      }
+
+      // inflate message payload
+      msg->sender_id = TOS_NODE_ID;
+      msg->counter = counter;
+
+      // send message
+      if (call AMSend.send(AM_BROADCAST_ADDR, &packet, sizeof(broadcast_msg_t)) == SUCCESS) {
+        lock = TRUE;
+      }
     }
-
-    // inflate message payload
-    msg->sender_id = TOS_NODE_ID;
-    msg->counter = counter;
-
-    // send message
-    call AMSend.send(AM_BROADCAST_ADDR, &packet, sizeof(broadcast_msg_t));
   }
 
   event void AMSend.sendDone(message_t* bufPtr, error_t error) {
-    printf("Sent message with counter: %u\n", counter);
-    printfflush();
+    if (&packet == bufPtr) {
+      lock = FALSE;
+      printf("Sent message with counter: %u\n", counter);
+      printfflush();
+    }
   }
 
   event message_t* Receive.receive(message_t* bufPtr, void* payload, uint8_t len) {
