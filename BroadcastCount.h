@@ -10,4 +10,4 @@ typedef nx_struct broadcast_msg {
   nx_uint16_t counter;
 } broadcast_msg_t;
 
-#endif BROADCAST_COUNT_H
+#endif
