@@ -1,0 +1,605 @@
+00:04.326	ID:2	Started radio
+00:04.664	ID:2	Sent message with counter: 0Wn
+00:04.983	ID:2	ySent message with counter: 0Wn
+00:05.198	ID:2	yReceived (sender_id=3, counter=0)
+00:05.200	ID:2	New counter: 1
+00:05.203	ID:2	Led stagtus: 000
+00:05.312	ID:2	Sent message with counter: 1v
+00:05.396	ID:2	yReceived (sender_id=3, counter=1)
+00:05.397	ID:2	New counter: 2
+00:05.400	ID:2	Led status: 100
+00:05.462	ID:2	Received (sender_id=1, counter=5)
+00:05.464	ID:2	New counter: 3
+00:05.466	ID:2	Led status: 101
+00:05.586	ID:2	rReceived (sender_id=3, counter=2)
+00:05.587	ID:2	New counter: 4
+00:05.590	ID:2	Led status: 001
+00:05.635	ID:2	Sent message with counter: 4.
+00:05.782	ID:2	yReceived (sender_id=3, counter=3)
+00:05.783	ID:2	New counter: 5
+00:05.786	ID:2	Led sta5tus: 101
+00:05.966	ID:2	rSent message with counter: 5
+00:05.979	ID:2	yReceived (sender_id=3, counter=4)
+00:05.981	ID:2	New counter: 6
+00:05.984	ID:2	Led status: 001
+00:06.175	ID:2	Received (sender_id=3, counter=4)
+00:06.176	ID:2	New counter: 7
+00:06.179	ID:2	Led status: 101
+00:06.286	ID:2	rSent message with counter: 7
+00:06.366	ID:2	yReceived (sender_id=3, counter=5)
+00:06.368	ID:2	New counter: 8
+00:06.370	ID:2	Led sta5tus: 001
+00:06.438	ID:2	Received (sender_id=1, counter=13)
+00:06.439	ID:2	New counter: 9
+00:06.442	ID:2	Led stzatus: 000
+00:06.561	ID:2	Received (sender_id=3, counter=6)
+00:06.563	ID:2	New counter: 10
+00:06.566	ID:2	Led status: 100
+00:06.614	ID:2	 zSent message with counter: 1v0
+00:06.758	ID:2	Received (sender_id=3, counter=7)
+00:06.759	ID:2	New counter: 11
+00:06.762	ID:2	Led stpatus: 000
+00:06.942	ID:2	Sent message with counter: 1v1
+00:06.957	ID:2	Received (sender_id=3, counter=8)
+00:06.958	ID:2	New counter: 12
+00:06.961	ID:2	Led status: 100
+00:07.150	ID:2	 zReceived (sender_id=3, counter=8)
+00:07.151	ID:2	New counter: 13
+00:07.154	ID:2	Led status: 000
+00:07.260	ID:2	Sent message with counter: 1v3
+00:07.345	ID:2	Received (sender_id=3, counter=9)
+00:07.347	ID:2	New counter: 14
+00:07.350	ID:2	Led status: 100
+00:07.412	ID:2	 zReceived (sender_id=1, counter=21)
+00:07.414	ID:2	New counter: 15
+00:07.416	ID:2	Led status: 101
+00:07.541	ID:2	0XReceived (sender_id=3, counter=10)
+00:07.542	ID:2	New counter: 16
+00:07.545	ID:2	Led status: 000
+00:07.591	ID:2	SSent message with counter: 1v6
+00:07.734	ID:2	RReceived (sender_id=3, counter=11)
+00:07.736	ID:2	New counter: 17
+00:07.739	ID:2	Led status: 100
+00:07.916	ID:2	Sent message with counter: 1v7
+00:07.933	ID:2	Received (sender_id=3, counter=12)
+00:07.934	ID:2	New counter: 18
+00:07.937	ID:2	Led status: 000
+00:08.130	ID:2	SReceived (sender_id=3, counter=12)
+00:08.131	ID:2	New counter: 19
+00:08.134	ID:2	Led sGtatus: 100
+00:08.240	ID:2	Sent message with counter: 1v9
+00:08.325	ID:2	Received (sender_id=3, counter=13)
+00:08.326	ID:2	New counter: 20
+00:08.329	ID:2	Led status: 000
+00:08.389	ID:2	SReceived (sender_id=1, counter=29)
+00:08.390	ID:2	New counter: 21
+00:08.393	ID:2	Led status: 001
+00:08.520	ID:2	Received (sender_id=3, counter=14)
+00:08.521	ID:2	New counter: 22
+00:08.524	ID:2	Led sOtatus: 101
+00:08.569	ID:2	0XSent message with counter: 2N2
+00:08.718	ID:2	Received (sender_id=3, counter=15)
+00:08.720	ID:2	New counter: 23
+00:08.722	ID:2	Led sutatus: 001
+00:08.894	ID:2	Sent message with counter: 2N3
+00:08.915	ID:2	Received (sender_id=3, counter=16)
+00:08.917	ID:2	New counter: 24
+00:08.920	ID:2	Led s4tatus: 101
+00:09.106	ID:2	0XReceived (sender_id=3, counter=16)
+00:09.107	ID:2	New counter: 25
+00:09.110	ID:2	Led sU8tatus: 001
+00:09.212	ID:2	Sent message with counter: 2N5
+00:09.298	ID:2	hReceived (sender_id=3, counter=17)
+00:09.300	ID:2	New counter: 26
+00:09.303	ID:2	Led status: 101
+00:09.371	ID:2	0XReceived (sender_id=1, counter=37)
+00:09.372	ID:2	New counter: 27
+00:09.375	ID:2	Led status: 100
+00:09.494	ID:2	Received (sender_id=3, counter=18)
+00:09.495	ID:2	New counter: 28
+00:09.498	ID:2	Led sltatus: 000
+00:09.545	ID:2	SSent message with counter: 2N8
+00:09.690	ID:2	Received (sender_id=3, counter=19)
+00:09.692	ID:2	New counter: 29
+00:09.695	ID:2	Led sGtatus: 100
+00:09.865	ID:2	Sent message with counter: 2N9
+00:09.886	ID:2	Received (sender_id=3, counter=20)
+00:09.887	ID:2	New counter: 30
+00:09.890	ID:2	Led sztatus: 000
+00:10.084	ID:2	SReceived (sender_id=3, counter=20)
+00:10.085	ID:2	New counter: 31
+00:10.088	ID:2	Led status: 000
+00:10.188	ID:2	SSent message with counter: 341
+00:10.279	ID:2	Received (sender_id=3, counter=21)
+00:10.280	ID:2	New counter: 32
+00:10.283	ID:2	Led status: 100
+00:10.350	ID:2	Received (sender_id=1, counter=45)
+00:10.351	ID:2	New counter: 33
+00:10.354	ID:2	Led status: 101
+00:10.473	ID:2	0XReceived (sender_id=3, counter=22)
+00:10.474	ID:2	New counter: 34
+00:10.477	ID:2	Led s7tatus: 001
+00:10.519	ID:2	Sent message with counter: 344
+00:10.667	ID:2	zLReceived (sender_id=3, counter=23)
+00:10.669	ID:2	New counter: 35
+00:10.671	ID:2	Led sUZtatus: 101
+00:10.843	ID:2	0XSent message with counter: 345
+00:10.869	ID:2	hReceived (sender_id=3, counter=24)
+00:10.870	ID:2	New counter: 36
+00:10.873	ID:2	Led status: 001
+00:11.062	ID:2	Received (sender_id=3, counter=24)
+00:11.064	ID:2	New counter: 37
+00:11.066	ID:2	Led status: 101
+00:11.166	ID:2	0XSent message with counter: 347
+00:11.255	ID:2	Received (sender_id=3, counter=25)
+00:11.257	ID:2	New counter: 38
+00:11.259	ID:2	Led sUtatus: 001
+00:11.323	ID:2	Received (sender_id=1, counter=53)
+00:11.324	ID:2	New counter: 39
+00:11.327	ID:2	Led status: 000
+00:11.449	ID:2	SReceived (sender_id=3, counter=26)
+00:11.450	ID:2	New counter: 40
+00:11.453	ID:2	Led status: 100
+00:11.494	ID:2	Sent message with counter: 4.0
+00:11.647	ID:2	Received (sender_id=3, counter=27)
+00:11.649	ID:2	New counter: 41
+00:11.651	ID:2	Led status: 000
+00:11.818	ID:2	SSent message with counter: 4.1
+00:11.838	ID:2	Received (sender_id=3, counter=28)
+00:11.839	ID:2	New counter: 42
+00:11.842	ID:2	Led s5utatus: 100
+00:12.039	ID:2	Received (sender_id=3, counter=28)
+00:12.040	ID:2	New counter: 43
+00:12.043	ID:2	Led sTtatus: 000
+00:12.137	ID:2	SSent message with counter: 4.3
+00:12.233	ID:2	Received (sender_id=3, counter=29)
+00:12.234	ID:2	New counter: 44
+00:12.237	ID:2	Led status: 100
+00:12.299	ID:2	Received (sender_id=1, counter=61)
+00:12.301	ID:2	New counter: 45
+00:12.303	ID:2	Led status: 101
+00:12.428	ID:2	0XReceived (sender_id=3, counter=30)
+00:12.429	ID:2	New counter: 46
+00:12.432	ID:2	Led s}^Ytatus: 000
+00:12.469	ID:2	SSent message with counter: 4.6
+00:12.619	ID:2	RReceived (sender_id=3, counter=31)
+00:12.621	ID:2	New counter: 47
+00:12.623	ID:2	Led status: 100
+00:12.794	ID:2	Sent message with counter: 4.7
+00:12.818	ID:2	Received (sender_id=3, counter=32)
+00:12.819	ID:2	New counter: 48
+00:12.822	ID:2	Led status: 000
+00:13.009	ID:2	SReceived (sender_id=3, counter=32)
+00:13.010	ID:2	New counter: 49
+00:13.013	ID:2	Led status: 100
+00:13.115	ID:2	Sent message with counter: 4.9
+00:13.209	ID:2	Received (sender_id=3, counter=33)
+00:13.210	ID:2	New counter: 50
+00:13.213	ID:2	Led status: 000
+00:13.272	ID:2	SReceived (sender_id=1, counter=69)
+00:13.273	ID:2	New counter: 51
+00:13.276	ID:2	Led status: 001
+00:13.398	ID:2	Received (sender_id=3, counter=34)
+00:13.399	ID:2	New counter: 52
+00:13.402	ID:2	Led sgtatus: 101
+00:13.444	ID:2	0XSent message with counter: 52
+00:13.602	ID:2	Received (sender_id=3, counter=35)
+00:13.603	ID:2	New counter: 53
+00:13.606	ID:2	Led status: 001
+00:13.770	ID:2	Sent message with counter: 53
+00:13.793	ID:2	Received (sender_id=3, counter=36)
+00:13.794	ID:2	New counter: 54
+00:13.797	ID:2	Led sDtatus: 101
+00:13.991	ID:2	0XReceived (sender_id=3, counter=36)
+00:13.992	ID:2	New counter: 55
+00:13.995	ID:2	Led s%ttatus: 001
+00:14.094	ID:2	Sent message with counter: 55
+00:14.182	ID:2	hReceived (sender_id=3, counter=37)
+00:14.183	ID:2	New counter: 56
+00:14.186	ID:2	Led status: 101
+00:14.249	ID:2	0XReceived (sender_id=1, counter=77)
+00:14.250	ID:2	New counter: 57
+00:14.253	ID:2	Led s4tatus: 100
+00:14.377	ID:2	Received (sender_id=3, counter=38)
+00:14.379	ID:2	New counter: 58
+00:14.381	ID:2	Led status: 000
+00:14.422	ID:2	SSent message with counter: 58
+00:14.574	ID:2	Received (sender_id=3, counter=39)
+00:14.575	ID:2	New counter: 59
+00:14.578	ID:2	Led status: 100
+00:14.744	ID:2	Sent message with counter: 59
+00:14.772	ID:2	Received (sender_id=3, counter=40)
+00:14.774	ID:2	New counter: 60
+00:14.777	ID:2	Led status: 000
+00:14.967	ID:2	SReceived (sender_id=3, counter=40)
+00:14.968	ID:2	New counter: 61
+00:14.971	ID:2	Led status: 000
+00:15.072	ID:2	SSent message with counter: 61
+00:15.160	ID:2	Received (sender_id=3, counter=41)
+00:15.162	ID:2	New counter: 62
+00:15.164	ID:2	Led s0tatus: 100
+00:15.230	ID:2	Received (sender_id=1, counter=85)
+00:15.231	ID:2	New counter: 63
+00:15.234	ID:2	Led sNtatus: 101
+00:15.356	ID:2	0XReceived (sender_id=3, counter=42)
+00:15.358	ID:2	New counter: 64
+00:15.361	ID:2	Led status: 001
+00:15.391	ID:2	Sent message with counter: 64
+00:15.552	ID:2	zLReceived (sender_id=3, counter=43)
+00:15.553	ID:2	New counter: 65
+00:15.556	ID:2	Led srtatus: 101
+00:15.722	ID:2	0XSent message with counter: 65
+00:15.748	ID:2	hReceived (sender_id=3, counter=44)
+00:15.749	ID:2	New counter: 66
+00:15.752	ID:2	Led status: 001
+00:15.939	ID:2	Received (sender_id=3, counter=44)
+00:15.941	ID:2	New counter: 67
+00:15.943	ID:2	Led sztatus: 101
+00:16.048	ID:2	0XSent message with counter: 67
+00:16.136	ID:2	Received (sender_id=3, counter=45)
+00:16.138	ID:2	New counter: 68
+00:16.141	ID:2	Led srtatus: 001
+00:16.207	ID:2	Received (sender_id=1, counter=93)
+00:16.208	ID:2	New counter: 69
+00:16.211	ID:2	Led status: 000
+00:16.335	ID:2	SReceived (sender_id=3, counter=46)
+00:16.337	ID:2	New counter: 70
+00:16.339	ID:2	Led s	Jtatus: 100
+00:16.371	ID:2	Sent message with counter: 70
+00:16.524	ID:2	Received (sender_id=3, counter=47)
+00:16.525	ID:2	New counter: 71
+00:16.528	ID:2	Led sktatus: 000
+00:16.693	ID:2	SSent message with counter: 71
+00:16.725	ID:2	Received (sender_id=3, counter=48)
+00:16.727	ID:2	New counter: 72
+00:16.729	ID:2	Led s0tatus: 100
+00:16.922	ID:2	Received (sender_id=3, counter=48)
+00:16.923	ID:2	New counter: 73
+00:16.926	ID:2	Led status: 000
+00:17.020	ID:2	SSent message with counter: 73
+00:17.112	ID:2	Received (sender_id=3, counter=49)
+00:17.113	ID:2	New counter: 74
+00:17.116	ID:2	Led status: 100
+00:17.183	ID:2	Received (sender_id=1, counter=101)
+00:17.185	ID:2	New counter: 75
+00:17.188	ID:2	Led status: 101
+00:17.312	ID:2	hReceived (sender_id=3, counter=50)
+00:17.313	ID:2	New counter: 76
+00:17.316	ID:2	Led status: 000
+00:17.344	ID:2	SSent message with counter: 76
+00:17.503	ID:2	RReceived (sender_id=3, counter=51)
+00:17.504	ID:2	New counter: 77
+00:17.507	ID:2	Led status: 100
+00:17.670	ID:2	Sent message with counter: 77
+00:17.701	ID:2	Received (sender_id=3, counter=52)
+00:17.703	ID:2	New counter: 78
+00:17.706	ID:2	Led status: 000
+00:17.892	ID:2	SReceived (sender_id=3, counter=52)
+00:17.893	ID:2	New counter: 79
+00:17.896	ID:2	Led status: 100
+00:17.998	ID:2	Sent message with counter: 79
+00:18.091	ID:2	Received (sender_id=3, counter=53)
+00:18.092	ID:2	New counter: 80
+00:18.095	ID:2	Led sp=tatus: 000
+00:18.161	ID:2	SReceived (sender_id=1, counter=109)
+00:18.162	ID:2	New counter: 81
+00:18.165	ID:2	Led status: 001
+00:18.286	ID:2	PReceived (sender_id=3, counter=54)
+00:18.287	ID:2	New counter: 82
+00:18.290	ID:2	Led status: 101
+00:18.319	ID:2	0XSent message with counter: 8_2
+00:18.478	ID:2	Received (sender_id=3, counter=55)
+00:18.479	ID:2	New counter: 83
+00:18.482	ID:2	Led sWtatus: 001
+00:18.647	ID:2	Sent message with counter: 8_3
+00:18.678	ID:2	Received (sender_id=3, counter=56)
+00:18.679	ID:2	New counter: 84
+00:18.682	ID:2	Led status: 101
+00:18.874	ID:2	0XReceived (sender_id=3, counter=56)
+00:18.875	ID:2	New counter: 85
+00:18.878	ID:2	Led status: 001
+00:18.971	ID:2	Sent message with counter: 8_5
+00:19.063	ID:2	hReceived (sender_id=3, counter=57)
+00:19.064	ID:2	New counter: 86
+00:19.067	ID:2	Led sYtatus: 101
+00:19.139	ID:2	0XReceived (sender_id=1, counter=117)
+00:19.140	ID:2	New counter: 87
+00:19.143	ID:2	Led tstatus: 100
+00:19.264	ID:2	Received (sender_id=3, counter=58)
+00:19.265	ID:2	New counter: 88
+00:19.268	ID:2	Led s_tatus: 000
+00:19.293	ID:2	SSent message with counter: 8_8
+00:19.462	ID:2	Received (sender_id=3, counter=59)
+00:19.463	ID:2	New counter: 89
+00:19.466	ID:2	Led status: 100
+00:19.620	ID:2	Sent message with counter: 8_9
+00:19.654	ID:2	Received (sender_id=3, counter=60)
+00:19.655	ID:2	New counter: 90
+00:19.658	ID:2	Led sztatus: 000
+00:19.845	ID:2	SReceived (sender_id=3, counter=60)
+00:19.846	ID:2	New counter: 91
+00:19.849	ID:2	Led sUtatus: 000
+00:19.949	ID:2	SSent message with counter: 91
+00:20.041	ID:2	Received (sender_id=3, counter=61)
+00:20.042	ID:2	New counter: 92
+00:20.045	ID:2	Led status: 100
+00:20.110	ID:2	Received (sender_id=1, counter=125)
+00:20.111	ID:2	New counter: 93
+00:20.114	ID:2	Led status: 101
+00:20.238	ID:2	hReceived (sender_id=3, counter=62)
+00:20.240	ID:2	New counter: 94
+00:20.242	ID:2	Led sBtatus: 001
+00:20.273	ID:2	Sent message with counter: 94
+00:20.436	ID:2	zLReceived (sender_id=3, counter=63)
+00:20.437	ID:2	New counter: 95
+00:20.440	ID:2	Led status: 101
+00:20.598	ID:2	0XSent message with counter: 95
+00:20.633	ID:2	hReceived (sender_id=3, counter=64)
+00:20.634	ID:2	New counter: 96
+00:20.637	ID:2	Led sStatus: 001
+00:20.824	ID:2	Received (sender_id=3, counter=64)
+00:20.825	ID:2	New counter: 97
+00:20.828	ID:2	Led s2(tatus: 101
+00:20.920	ID:2	0XSent message with counter: 97
+00:21.017	ID:2	Received (sender_id=3, counter=65)
+00:21.018	ID:2	New counter: 98
+00:21.021	ID:2	Led status: 001
+00:21.086	ID:2	Received (sender_id=1, counter=133)
+00:21.088	ID:2	New counter: 99
+00:21.091	ID:2	Led Cstatus: 000
+00:21.215	ID:2	aReceived (sender_id=3, counter=66)
+00:21.216	ID:2	New counter: 100
+00:21.219	ID:2	Led ^lstatus: 100
+00:21.247	ID:2	Sent message with counter: 1v00
+00:21.406	ID:2	Received (sender_id=3, counter=67)
+00:21.408	ID:2	New counter: 101
+00:21.410	ID:2	Led status: 000
+00:21.574	ID:2	aSent message with counter: 1v01
+00:21.608	ID:2	=Received (sender_id=3, counter=68)
+00:21.609	ID:2	New counter: 102
+00:21.612	ID:2	Led status: 100
+00:21.804	ID:2	Received (sender_id=3, counter=68)
+00:21.805	ID:2	New counter: 103
+00:21.808	ID:2	Led status: 000
+00:21.898	ID:2	aSent message with counter: 1v03
+00:21.998	ID:2	Received (sender_id=3, counter=69)
+00:21.999	ID:2	New counter: 104
+00:22.002	ID:2	Led Gstatus: 100
+00:22.065	ID:2	Received (sender_id=1, counter=141)
+00:22.066	ID:2	New counter: 105
+00:22.069	ID:2	Led status: 101
+00:22.192	ID:2	bReceived (sender_id=3, counter=70)
+00:22.194	ID:2	New counter: 106
+00:22.196	ID:2	Led status: 000
+00:22.219	ID:2	aSent message with counter: 1v06
+00:22.386	ID:2	Received (sender_id=3, counter=71)
+00:22.387	ID:2	New counter: 107
+00:22.390	ID:2	Led dstatus: 100
+00:22.548	ID:2	Sent message with counter: 1v07
+00:22.578	ID:2	iReceived (sender_id=3, counter=72)
+00:22.580	ID:2	New counter: 108
+00:22.583	ID:2	Led status: 000
+00:22.777	ID:2	aReceived (sender_id=3, counter=72)
+00:22.778	ID:2	New counter: 109
+00:22.781	ID:2	Led status: 100
+00:22.877	ID:2	Sent message with counter: 1v09
+00:22.972	ID:2	PReceived (sender_id=3, counter=73)
+00:22.974	ID:2	New counter: 110
+00:22.977	ID:2	Led zstatus: 000
+00:23.043	ID:2	aReceived (sender_id=1, counter=149)
+00:23.044	ID:2	New counter: 111
+00:23.047	ID:2	LedD status: 001
+00:23.165	ID:2	Received (sender_id=3, counter=74)
+00:23.167	ID:2	New counter: 112
+00:23.169	ID:2	Led tstatus: 101
+00:23.195	ID:2	hSent message with counter: 1v12
+00:23.362	ID:2	Received (sender_id=3, counter=75)
+00:23.364	ID:2	New counter: 113
+00:23.366	ID:2	Led nstatus: 001
+00:23.526	ID:2	PSent message with counter: 1v13
+00:23.562	ID:2	eReceived (sender_id=3, counter=76)
+00:23.564	ID:2	New counter: 114
+00:23.567	ID:2	Led status: 101
+00:23.755	ID:2	hReceived (sender_id=3, counter=76)
+00:23.757	ID:2	New counter: 115
+00:23.760	ID:2	Led status: 001
+00:23.847	ID:2	PSent message with counter: 1v15
+00:23.945	ID:2	1Received (sender_id=3, counter=77)
+00:23.946	ID:2	New counter: 116
+00:23.949	ID:2	Led istatus: 101
+00:24.014	ID:2	hReceived (sender_id=1, counter=157)
+00:24.016	ID:2	New counter: 117
+00:24.019	ID:2	Led status: 100
+00:24.140	ID:2	pReceived (sender_id=3, counter=78)
+00:24.141	ID:2	New counter: 118
+00:24.144	ID:2	Led status: 000
+00:24.177	ID:2	aSent message with counter: 1v18
+00:24.341	ID:2	aReceived (sender_id=3, counter=79)
+00:24.342	ID:2	New counter: 119
+00:24.345	ID:2	Led Ystatus: 100
+00:24.502	ID:2	Sent message with counter: 1v19
+00:24.535	ID:2	tReceived (sender_id=3, counter=80)
+00:24.536	ID:2	New counter: 120
+00:24.539	ID:2	Led status: 000
+00:24.727	ID:2	aReceived (sender_id=3, counter=80)
+00:24.728	ID:2	New counter: 121
+00:24.731	ID:2	Led lstatus: 000
+00:24.825	ID:2	aSent message with counter: 1v21
+00:24.930	ID:2	Received (sender_id=3, counter=81)
+00:24.931	ID:2	New counter: 122
+00:24.934	ID:2	Led status: 100
+00:24.993	ID:2	Received (sender_id=1, counter=165)
+00:24.994	ID:2	New counter: 123
+00:24.997	ID:2	Ledx status: 101
+00:25.123	ID:2	bReceived (sender_id=3, counter=82)
+00:25.124	ID:2	New counter: 124
+00:25.127	ID:2	Led kVstatus: 001
+00:25.148	ID:2	PSent message with counter: 1v24
+00:25.317	ID:2	Received (sender_id=3, counter=83)
+00:25.318	ID:2	New counter: 125
+00:25.321	ID:2	Led status: 101
+00:25.472	ID:2	hSent message with counter: 1v25
+00:25.510	ID:2	Received (sender_id=3, counter=84)
+00:25.512	ID:2	New counter: 126
+00:25.515	ID:2	Led !ostatus: 001
+00:25.708	ID:2	PReceived (sender_id=3, counter=84)
+00:25.709	ID:2	New counter: 127
+00:25.712	ID:2	Led status: 101
+00:25.804	ID:2	hSent message with counter: 1v27
+00:25.900	ID:2	AReceived (sender_id=3, counter=85)
+00:25.901	ID:2	New counter: 128
+00:25.904	ID:2	Led status: 001
+00:25.968	ID:2	PReceived (sender_id=1, counter=173)
+00:25.969	ID:2	New counter: 129
+00:25.972	ID:2	LedG status: 000
+00:26.094	ID:2	Received (sender_id=3, counter=86)
+00:26.096	ID:2	New counter: 130
+00:26.099	ID:2	Led 4status: 100
+00:26.128	ID:2	Sent message with counter: 1v30
+00:26.294	ID:2	Received (sender_id=3, counter=87)
+00:26.295	ID:2	New counter: 131
+00:26.298	ID:2	Led Fstatus: 000
+00:26.455	ID:2	aSent message with counter: 1v31
+00:26.485	ID:2	Received (sender_id=3, counter=88)
+00:26.487	ID:2	New counter: 132
+00:26.490	ID:2	Led status: 100
+00:26.685	ID:2	Received (sender_id=3, counter=88)
+00:26.686	ID:2	New counter: 133
+00:26.689	ID:2	Led tstatus: 000
+00:26.777	ID:2	aSent message with counter: 1v33
+00:26.877	ID:2	MReceived (sender_id=3, counter=89)
+00:26.879	ID:2	New counter: 134
+00:26.881	ID:2	Led 6status: 100
+00:26.949	ID:2	Received (sender_id=1, counter=181)
+00:26.951	ID:2	New counter: 135
+00:26.953	ID:2	Ledn status: 101
+00:27.075	ID:2	bReceived (sender_id=3, counter=90)
+00:27.076	ID:2	New counter: 136
+00:27.079	ID:2	Led Nstatus: 000
+00:27.099	ID:2	aSent message with counter: 1v36
+00:27.266	ID:2	Received (sender_id=3, counter=91)
+00:27.267	ID:2	New counter: 137
+00:27.270	ID:2	Led status: 100
+00:27.430	ID:2	Sent message with counter: 1v37
+00:27.461	ID:2	Received (sender_id=3, counter=92)
+00:27.462	ID:2	New counter: 138
+00:27.465	ID:2	Led status: 000
+00:27.660	ID:2	aReceived (sender_id=3, counter=92)
+00:27.662	ID:2	New counter: 139
+00:27.665	ID:2	Led status: 100
+00:27.747	ID:2	Sent message with counter: 1v39
+00:27.854	ID:2	=Received (sender_id=3, counter=93)
+00:27.855	ID:2	New counter: 140
+00:27.858	ID:2	Led Xstatus: 000
+00:27.922	ID:2	aReceived (sender_id=1, counter=189)
+00:27.923	ID:2	New counter: 141
+00:27.926	ID:2	Ledp7 status: 001
+00:28.047	ID:2	Received (sender_id=3, counter=94)
+00:28.048	ID:2	New counter: 142
+00:28.051	ID:2	Led status: 101
+00:28.079	ID:2	hSent message with counter: 1v42
+00:28.244	ID:2	VReceived (sender_id=3, counter=95)
+00:28.245	ID:2	New counter: 143
+00:28.248	ID:2	Led status: 001
+00:28.401	ID:2	PSent message with counter: 1v43
+00:28.442	ID:2	CReceived (sender_id=3, counter=96)
+00:28.443	ID:2	New counter: 144
+00:28.446	ID:2	Led nstatus: 101
+00:28.635	ID:2	hReceived (sender_id=3, counter=96)
+00:28.637	ID:2	New counter: 145
+00:28.639	ID:2	Led Vstatus: 001
+00:28.731	ID:2	PSent message with counter: 1v45
+00:28.836	ID:2	Received (sender_id=3, counter=97)
+00:28.837	ID:2	New counter: 146
+00:28.840	ID:2	Led status: 101
+00:28.898	ID:2	hReceived (sender_id=1, counter=197)
+00:28.899	ID:2	New counter: 147
+00:28.902	ID:2	Led status: 100
+00:29.028	ID:2	pReceived (sender_id=3, counter=98)
+00:29.030	ID:2	New counter: 148
+00:29.033	ID:2	Led status: 000
+00:29.053	ID:2	aSent message with counter: 1v48
+00:29.219	ID:2	Received (sender_id=3, counter=99)
+00:29.221	ID:2	New counter: 149
+00:29.223	ID:2	Led status: 100
+00:29.380	ID:2	Sent message with counter: 1v49
+00:29.415	ID:2	Received (sender_id=3, counter=100)
+00:29.416	ID:2	New counter: 150
+00:29.419	ID:2	Led status: 000
+00:29.610	ID:2	Received (sender_id=3, counter=100)
+00:29.611	ID:2	New counter: 151
+00:29.614	ID:2	Led status: 000
+00:29.702	ID:2	Sent message with counter: 1v51
+00:29.812	ID:2	MReceived (sender_id=3, counter=101)
+00:29.813	ID:2	New counter: 152
+00:29.816	ID:2	Led, status: 100
+00:29.873	ID:2	pReceived (sender_id=1, counter=205)
+00:29.875	ID:2	New counter: 153
+00:29.878	ID:2	Led status: 101
+00:30.004	ID:2	bReceived (sender_id=3, counter=102)
+00:30.006	ID:2	New counter: 154
+00:30.008	ID:2	LedN status: 001
+00:30.031	ID:2	Sent message with counter: 1v54
+00:30.196	ID:2	Received (sender_id=3, counter=103)
+00:30.197	ID:2	New counter: 155
+00:30.200	ID:2	Led status: 101
+00:30.355	ID:2	bSent message with counter: 1v55
+00:30.396	ID:2	aReceived (sender_id=3, counter=104)
+00:30.397	ID:2	New counter: 156
+00:30.400	ID:2	LedD status: 001
+00:30.588	ID:2	Received (sender_id=3, counter=104)
+00:30.590	ID:2	New counter: 157
+00:30.592	ID:2	LedQ status: 101
+00:30.683	ID:2	bSent message with counter: 1v57
+00:30.785	ID:2	2Received (sender_id=3, counter=105)
+00:30.786	ID:2	New counter: 158
+00:30.789	ID:2	Led status: 001
+00:30.853	ID:2	Received (sender_id=1, counter=213)
+00:30.854	ID:2	New counter: 159
+00:30.857	ID:2	Led6 status: 000
+00:30.981	ID:2	Received (sender_id=3, counter=106)
+00:30.983	ID:2	New counter: 160
+00:30.985	ID:2	Leds status: 100
+00:30.999	ID:2	pSent message with counter: 1v60
+00:31.179	ID:2	#5Received (sender_id=3, counter=107)
+00:31.181	ID:2	New counter: 161
+00:31.184	ID:2	Led)B status: 000
+00:31.329	ID:2	Sent message with counter: 1v61
+00:31.373	ID:2	E Received (sender_id=3, counter=108)
+00:31.375	ID:2	New counter: 162
+00:31.378	ID:2	Led status: 100
+00:31.569	ID:2	pReceived (sender_id=3, counter=108)
+00:31.570	ID:2	New counter: 163
+00:31.573	ID:2	Led5 status: 000
+00:31.653	ID:2	Sent message with counter: 1v63
+00:31.655	ID:2
+00:31.766	ID:2	Received (sender_id=3, counter=109)
+00:31.768	ID:2	New counter: 164
+00:31.771	ID:2	Led^7 status: 100
+00:31.829	ID:2	pReceived (sender_id=1, counter=221)
+00:31.830	ID:2	New counter: 165
+00:31.833	ID:2	Led status: 101
+00:31.955	ID:2	bReceived (sender_id=3, counter=110)
+00:31.956	ID:2	New counter: 166
+00:31.959	ID:2	Led9 status: 000
+00:31.975	ID:2	Sent message with counter: 1v66
+00:32.150	ID:2	wJReceived (sender_id=3, counter=111)
+00:32.152	ID:2	New counter: 167
+00:32.155	ID:2	Led status: 100
+00:32.304	ID:2	pSent message with counter: 1v67
+00:32.352	ID:2	_Received (sender_id=3, counter=112)
+00:32.353	ID:2	New counter: 168
+00:32.356	ID:2	LedP status: 000
+00:32.541	ID:2	Received (sender_id=3, counter=112)
+00:32.543	ID:2	New counter: 169
+00:32.546	ID:2	Led status: 100
+00:32.627	ID:2	pSent message with counter: 1v69
+00:32.734	ID:2	uReceived (sender_id=3, counter=113)
+00:32.736	ID:2	New counter: 170
+00:32.739	ID:2	Led status: 000
+00:32.806	ID:2	Received (sender_id=1, counter=229)
+00:32.808	ID:2	New counter: 171
+00:32.811	ID:2	Leds status: 001
+00:32.933	ID:2	Received (sender_id=3, counter=114)
+00:32.935	ID:2	New counter: 172
+00:32.938	ID:2	LedEq status: 101
